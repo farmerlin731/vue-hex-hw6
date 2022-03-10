@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-712f2df5"],{bb51:function(e,n,c){"use strict";c.r(n);var t=c("7a23"),o=c("cf05"),l=c.n(o),r=Object(t["createElementVNode"])("h3",null,"我是首頁唷 ^_^",-1),a=Object(t["createElementVNode"])("img",{src:l.a,alt:""},null,-1),u=[r,a];function b(e,n){return Object(t["openBlock"])(),Object(t["createElementBlock"])("div",null,u)}var d=c("6b0d"),i=c.n(d);const p={},f=i()(p,[["render",b]]);n["default"]=f},cf05:function(e,n,c){e.exports=c.p+"img/logo.82b9c7a5.png"}}]);
+//# sourceMappingURL=chunk-712f2df5.5026d7af.js.map
